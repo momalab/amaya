@@ -38,7 +38,7 @@ Required python libraries
 ## Cite us
 
 If you like the work, please cite our DATE' 21 paper:<br /><br />
-Prashant Hari Narayan Rajput, and Michail Maniatakos. 2021. Towards Non-intrusive Malware Detection for Industrial Control Systems. _2020 Design, Automation & Test in Europe Conference & Exhibition (DATE). IEEE, 2020_.
+Prashant Hari Narayan Rajput, and Michail Maniatakos. 2021. Towards Non-intrusive Malware Detection for Industrial Control Systems. _2021 Design, Automation & Test in Europe Conference & Exhibition (DATE). IEEE, 2021_.
 
 ## Contact us
 
